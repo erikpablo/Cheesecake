@@ -16,9 +16,10 @@ Media Queries: Utilizadas para aplicar estilos específicos com base nas caracte
 
 <h1>Desktop</h1>
 
-![alt text](image.png)
+![image](https://github.com/erikpablo/Cheesecake/assets/159021301/c06fafb3-d7c5-44ea-93f6-6b29ec99965e)
+
 
 
 <h1>Celular</h1>
 
-![alt text](image-1.png)
+![image](https://github.com/erikpablo/Cheesecake/assets/159021301/6b3b103b-d87b-4020-99f2-d9ef87500662)
